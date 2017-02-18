@@ -1,3 +1,5 @@
+# level 7
+
 from PIL import Image
 
 with Image.open('../data/oxygen.png', 'r') as img:
